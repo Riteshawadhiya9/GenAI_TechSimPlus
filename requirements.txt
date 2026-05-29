@@ -1,0 +1,8 @@
+langchain
+langchain-google-genai
+langchain-openai
+dotenv
+langchain-anthropic
+streamlit
+langchain-ollama
+langchain-groq
