@@ -6,3 +6,8 @@ langchain-anthropic
 streamlit
 langchain-ollama
 langchain-groq
+langchain-tavily
+google-search-results
+langchain-mistralai
+langchain-community
+langgraph
