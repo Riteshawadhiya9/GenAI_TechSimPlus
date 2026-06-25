@@ -53,3 +53,7 @@ Thumbs.db
 
 # mypy
 .mypy_cache/
+
+
+
+/apps/my_database.db
