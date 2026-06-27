@@ -1,0 +1,155 @@
+Roll_Number,Name,Email,Phone,Gender,Date_of_Birth,CGPA,Backlogs,Specialization,Project_Domain,Internship_Status,Year
+2021AIML001,Aarav Sharma,aarav.sharma@edu.in,9876543201,Male,2004-01-15,8.7,0,Computer Vision,Healthcare AI,Completed,3rd
+2021AIML002,Ananya Reddy,ananya.reddy@edu.in,9876543202,Female,2004-02-20,9.2,0,NLP,Conversational AI,Ongoing,3rd
+2021AIML003,Vikram Singh,vikram.singh@edu.in,9876543203,Male,2003-03-10,7.8,1,Robotics,Autonomous Navigation,Not Started,3rd
+2021AIML004,Priya Patel,priya.patel@edu.in,9876543204,Female,2004-04-05,8.4,0,Deep Learning,Fraud Detection,Completed,3rd
+2021AIML005,Rahul Gupta,rahul.gupta@edu.in,9876543205,Male,2003-05-12,6.9,2,Data Science,Market Analysis,Ongoing,3rd
+2021AIML006,Sneha Nair,sneha.nair@edu.in,9876543206,Female,2004-06-18,9.5,0,Computer Vision,Object Detection,Completed,3rd
+2021AIML007,Amit Kumar,amit.kumar@edu.in,9876543207,Male,2003-07-22,7.2,1,NLP,Sentiment Analysis,Not Started,3rd
+2021AIML008,Kavya Iyer,kavya.iyer@edu.in,9876543208,Female,2004-08-30,8.1,0,Reinforcement Learning,Game AI,Ongoing,3rd
+2021AIML009,Rohit Malhotra,rohit.malhotra@edu.in,9876543209,Male,2003-09-14,6.5,3,Data Engineering,ETL Pipelines,Completed,3rd
+2021AIML010,Neha Jain,neha.jain@edu.in,9876543210,Female,2004-10-25,9.0,0,Generative AI,Text-to-Image,Not Started,3rd
+2021AIML011,Arjun Nair,arjun.nair@edu.in,9876543211,Male,2003-11-08,7.5,1,Computer Vision,Face Recognition,Ongoing,3rd
+2021AIML012,Meera Krishnan,meera.krishnan@edu.in,9876543212,Female,2004-12-19,8.9,0,NLP,Question Answering,Completed,3rd
+2021AIML013,Deepak Singh,deepak.singh@edu.in,9876543213,Male,2003-01-02,6.8,2,Robotics,Humanoid Control,Not Started,3rd
+2021AIML014,Pooja Menon,pooja.menon@edu.in,9876543214,Female,2004-02-28,9.3,0,Deep Learning,GANs,Completed,3rd
+2021AIML015,Karan Joshi,karan.joshi@edu.in,9876543215,Male,2003-03-17,7.1,1,Data Science,Recommendation Systems,Ongoing,3rd
+2021AIML016,Divya Sharma,divya.sharma@edu.in,9876543216,Female,2004-04-09,8.6,0,Computer Vision,Medical Imaging,Completed,3rd
+2021AIML017,Suresh Reddy,suresh.reddy@edu.in,9876543217,Male,2003-05-21,5.9,4,General AIML,Web Development,Not Started,3rd
+2021AIML018,Lakshmi Rajan,lakshmi.rajan@edu.in,9876543218,Female,2004-06-14,9.1,0,NLP,Language Translation,Ongoing,3rd
+2021AIML019,Manoj Kumar,manoj.kumar@edu.in,9876543219,Male,2003-07-26,7.9,0,Reinforcement Learning,Stock Trading,Completed,3rd
+2021AIML020,Nisha Pillai,nisha.pillai@edu.in,9876543220,Female,2004-08-12,8.2,1,Deep Learning,Time Series Prediction,Not Started,3rd
+2021AIML021,Rajesh Rao,rajesh.rao@edu.in,9876543221,Male,2003-09-03,6.7,2,Data Science,Big Data Analytics,Ongoing,3rd
+2021AIML022,Swati Verma,swati.verma@edu.in,9876543222,Female,2004-10-27,9.4,0,Generative AI,Music Generation,Completed,3rd
+2021AIML023,Vijay Shetty,vijay.shetty@edu.in,9876543223,Male,2003-11-15,7.3,1,Computer Vision,Autonomous Vehicles,Ongoing,3rd
+2021AIML024,Ranjani Kumar,ranjani.kumar@edu.in,9876543224,Female,2004-12-07,8.8,0,NLP,Text Summarization,Not Started,3rd
+2021AIML025,Ankit Shah,ankit.shah@edu.in,9876543225,Male,2003-01-19,6.2,3,Robotics,Drones,Completed,3rd
+2021AIML026,Sunita Gupta,sunita.gupta@edu.in,9876543226,Female,2004-02-11,9.6,0,Deep Learning,Neural Architecture Search,Completed,3rd
+2021AIML027,Ganesh Iyer,ganesh.iyer@edu.in,9876543227,Male,2003-03-24,7.0,1,Data Science,Social Media Analytics,Ongoing,3rd
+2021AIML028,Radhika Nair,radhika.nair@edu.in,9876543228,Female,2004-04-16,8.5,0,Computer Vision,Surveillance Systems,Not Started,3rd
+2021AIML029,Sachin Tendulkar,sachin.tendulkar@edu.in,9876543229,Male,2003-05-29,7.4,1,NLP,Chatbots,Ongoing,3rd
+2021AIML030,Aishwarya Rai,aishwarya.rai@edu.in,9876543230,Female,2004-06-22,9.7,0,Generative AI,Video Synthesis,Completed,3rd
+2021AIML031,Naveen Kumar,naveen.kumar@edu.in,9876543231,Male,2003-07-09,6.4,2,Reinforcement Learning,Robotics Control,Not Started,3rd
+2021AIML032,Sandhya Menon,sandhya.menon@edu.in,9876543232,Female,2004-08-31,8.3,0,Deep Learning,Anomaly Detection,Completed,3rd
+2021AIML033,Kiran Reddy,kiran.reddy@edu.in,9876543233,Male,2003-09-18,7.6,1,Data Science,Customer Segmentation,Ongoing,3rd
+2021AIML034,Maya Krishnan,maya.krishnan@edu.in,9876543234,Female,2004-10-06,9.0,0,Computer Vision,Image Segmentation,Completed,3rd
+2021AIML035,Aditya Singh,aditya.singh@edu.in,9876543235,Male,2003-11-24,6.1,3,NLP,Entity Recognition,Not Started,3rd
+2021AIML036,Revathi Pillai,revathi.pillai@edu.in,9876543236,Female,2004-12-13,8.7,0,Generative AI,Style Transfer,Completed,3rd
+2021AIML037,Vishal Sharma,vishal.sharma@edu.in,9876543237,Male,2003-01-08,7.8,1,Robotics,Swarm Robotics,Ongoing,3rd
+2021AIML038,Harini Patel,harini.patel@edu.in,9876543238,Female,2004-02-25,9.1,0,Deep Learning,Federated Learning,Not Started,3rd
+2021AIML039,Girish Rao,girish.rao@edu.in,9876543239,Male,2003-03-11,6.9,2,Data Science,Predictive Maintenance,Completed,3rd
+2021AIML040,Sonali Joshi,sonali.joshi@edu.in,9876543240,Female,2004-04-22,8.4,0,NLP,Speech Recognition,Ongoing,3rd
+2021AIML041,Ramesh Kumar,ramesh.kumar@edu.in,9876543241,Male,2003-05-17,7.2,1,Computer Vision,Augmented Reality,Not Started,3rd
+2021AIML042,Anuradha Nair,anuradha.nair@edu.in,9876543242,Female,2004-06-28,9.3,0,Generative AI,Creative Writing,Completed,3rd
+2021AIML043,Suresh Babu,suresh.babu@edu.in,9876543243,Male,2003-07-07,5.8,4,General AIML,Database Management,Not Started,3rd
+2021AIML044,Padma Rajan,padma.rajan@edu.in,9876543244,Female,2004-08-19,8.9,0,Deep Learning,Transformers,Completed,3rd
+2021AIML045,Karthik Reddy,karthik.reddy@edu.in,9876543245,Male,2003-09-27,7.5,1,Reinforcement Learning,Game Playing,Ongoing,3rd
+2021AIML046,Vasanti Gupta,vasanti.gupta@edu.in,9876543246,Female,2004-10-14,8.1,0,Data Science,Real Estate Analytics,Not Started,3rd
+2021AIML047,Murali Krishna,murali.krishna@edu.in,9876543247,Male,2003-11-01,6.6,2,Computer Vision,Document Analysis,Completed,3rd
+2021AIML048,Lalitha Menon,lalitha.menon@edu.in,9876543248,Female,2004-12-22,9.4,0,NLP,Semantic Search,Completed,3rd
+2021AIML049,Srinivas Rao,srinivas.rao@edu.in,9876543249,Male,2003-01-14,7.0,1,Robotics,Medical Robots,Ongoing,3rd
+2021AIML050,Chitra Singh,chitra.singh@edu.in,9876543250,Female,2004-02-07,8.6,0,Deep Learning,Explainable AI,Not Started,3rd
+2021AIML051,Mahesh Babu,mahesh.babu@edu.in,9876543251,Male,2003-03-21,6.3,3,Data Science,Supply Chain,Ongoing,3rd
+2021AIML052,Geetha Nair,geetha.nair@edu.in,9876543252,Female,2004-04-14,9.2,0,Generative AI,Deepfake Detection,Completed,3rd
+2021AIML053,Prakash Reddy,prakash.reddy@edu.in,9876543253,Male,2003-05-05,7.9,0,Computer Vision,3D Reconstruction,Not Started,3rd
+2021AIML054,Sowmya Iyer,sowmya.iyer@edu.in,9876543254,Female,2004-06-24,8.3,1,NLP,Information Retrieval,Completed,3rd
+2021AIML055,Dinesh Kumar,dinesh.kumar@edu.in,9876543255,Male,2003-07-19,6.8,2,Reinforcement Learning,Resource Allocation,Ongoing,3rd
+2021AIML056,Jayanthi Patel,jayanthi.patel@edu.in,9876543256,Female,2004-08-11,9.5,0,Deep Learning,Graph Neural Networks,Not Started,3rd
+2021AIML057,Santosh Singh,santosh.singh@edu.in,9876543257,Male,2003-09-04,7.1,1,Data Science,Risk Assessment,Completed,3rd
+2021AIML058,Sumathi Raj,sumathi.raj@edu.in,9876543258,Female,2004-10-29,8.7,0,Computer Vision,Biometrics,Ongoing,3rd
+2021AIML059,Mohan Reddy,mohan.reddy@edu.in,9876543259,Male,2003-11-12,6.0,3,General AIML,Web Scraping,Not Started,3rd
+2021AIML060,Preethi Nair,preethi.nair@edu.in,9876543260,Female,2004-12-05,9.1,0,NLP,Text Classification,Completed,3rd
+2021AIML061,Narayanan Kumar,narayanan.kumar@edu.in,9876543261,Male,2003-01-27,7.4,1,Robotics,Automation,Ongoing,3rd
+2021AIML062,Vanitha Menon,vanitha.menon@edu.in,9876543262,Female,2004-02-18,8.2,0,Deep Learning,Transfer Learning,Not Started,3rd
+2021AIML063,Siddharth Jain,siddharth.jain@edu.in,9876543263,Male,2003-03-08,6.5,2,Data Science,Clustering Algorithms,Completed,3rd
+2021AIML064,Anjali Sharma,anjali.sharma@edu.in,9876543264,Female,2004-04-27,9.0,0,Generative AI,Art Generation,Ongoing,3rd
+2021AIML065,Ravi Shankar,ravi.shankar@edu.in,9876543265,Male,2003-05-15,7.6,1,Computer Vision,Motion Detection,Not Started,3rd
+2021AIML066,Shoba Rajan,shoba.rajan@edu.in,9876543266,Female,2004-06-08,8.8,0,NLP,Question Generation,Completed,3rd
+2021AIML067,Krishna Reddy,krishna.reddy@edu.in,9876543267,Male,2003-07-29,6.7,2,Reinforcement Learning,Path Planning,Ongoing,3rd
+2021AIML068,Saroja Gupta,saroja.gupta@edu.in,9876543268,Female,2004-08-16,9.3,0,Deep Learning,Object Tracking,Completed,3rd
+2021AIML069,Vinod Kumar,vinod.kumar@edu.in,9876543269,Male,2003-09-11,7.2,1,Data Science,Feature Engineering,Not Started,3rd
+2021AIML070,Asha Nair,asha.nair@edu.in,9876543270,Female,2004-10-03,8.5,0,Computer Vision,HDR Imaging,Ongoing,3rd
+2021AIML071,David Wilson,david.wilson@edu.in,9876543271,Male,2003-11-20,8.9,0,Deep Learning,Neural Networks,Completed,3rd
+2021AIML072,Emily Johnson,emily.johnson@edu.in,9876543272,Female,2004-12-09,9.2,0,NLP,Text Mining,Ongoing,3rd
+2021AIML073,James Brown,james.brown@edu.in,9876543273,Male,2003-01-31,6.4,3,Data Science,Data Visualization,Not Started,3rd
+2021AIML074,Emma Davis,emma.davis@edu.in,9876543274,Female,2004-02-14,8.1,1,Robotics,Human-Robot Interaction,Completed,3rd
+2021AIML075,Michael Miller,michael.miller@edu.in,9876543275,Male,2003-03-26,7.5,1,Computer Vision,Image Retrieval,Ongoing,3rd
+2021AIML076,Sophia Garcia,sophia.garcia@edu.in,9876543276,Female,2004-04-20,9.6,0,Generative AI,Video Generation,Not Started,3rd
+2021AIML077,William Chen,william.chen@edu.in,9876543277,Male,2003-05-09,8.0,0,Deep Learning,Hyperparameter Tuning,Completed,3rd
+2021AIML078,Olivia Brown,olivia.brown@edu.in,9876543278,Female,2004-06-17,8.4,1,NLP,Named Entity Recognition,Ongoing,3rd
+2021AIML077A,James Smith,james.smith@edu.in,9876543279,Male,2003-07-25,6.9,2,Data Science,Time Series Analysis,Not Started,3rd
+2021AIML078A,Emma Johnson,emma.johnson@edu.in,9876543280,Female,2004-08-28,9.4,0,Computer Vision,Image Classification,Completed,3rd
+2021AIML079,Noah Williams,noah.williams@edu.in,9876543281,Male,2003-09-19,7.8,0,Reinforcement Learning,Multi-Agent Systems,Ongoing,3rd
+2021AIML080,Mia Jones,mia.jones@edu.in,9876543282,Female,2004-10-24,8.6,1,Deep Learning,Self-Supervised Learning,Not Started,3rd
+2021AIML081,Ethan Martinez,ethan.martinez@edu.in,9876543283,Male,2003-11-06,6.2,3,General AIML,API Development,Completed,3rd
+2021AIML082,Lily Garcia,lily.garcia@edu.in,9876543284,Female,2004-12-15,9.1,0,NLP,Dialog Systems,Ongoing,3rd
+2021AIML083,Logan Anderson,logan.anderson@edu.in,9876543285,Male,2003-01-23,7.3,1,Data Science,Anomaly Detection,Not Started,3rd
+2021AIML084,Ava Thomas,ava.thomas@edu.in,9876543286,Female,2004-02-29,8.7,0,Computer Vision,Pattern Recognition,Completed,3rd
+2021AIML085,Carter Taylor,carter.taylor@edu.in,9876543287,Male,2003-03-16,6.8,2,Robotics,Manipulation,Ongoing,3rd
+2021AIML086,Isabella Moore,isabella.moore@edu.in,9876543288,Female,2004-04-11,9.3,0,Generative AI,Data Augmentation,Completed,3rd
+2021AIML087,Mason Harris,mason.harris@edu.in,9876543289,Male,2003-05-30,7.0,1,Deep Learning,Model Compression,Not Started,3rd
+2021AIML088,Evelyn Clark,evelyn.clark@edu.in,9876543290,Female,2004-06-21,8.2,0,NLP,Language Modeling,Ongoing,3rd
+2021AIML089,Alexander Lewis,alexander.lewis@edu.in,9876543291,Male,2003-07-14,7.9,1,Data Science,Causal Inference,Completed,3rd
+2021AIML090,Harper Walker,harper.walker@edu.in,9876543292,Female,2004-08-05,9.0,0,Computer Vision,Vision Transformers,Not Started,3rd
+2021AIML091,Bruno Moreira,bruno.moreira@edu.in,9876543293,Male,2003-09-23,6.1,3,General AIML,Testing,Completed,3rd
+2021AIML092,Carla Santos,carla.santos@edu.in,9876543294,Female,2004-10-15,8.8,0,NLP,POS Tagging,Ongoing,3rd
+2021AIML093,Daniel Costa,daniel.costa@edu.in,9876543295,Male,2003-11-28,7.5,1,Reinforcement Learning,Optimization,Not Started,3rd
+2021AIML094,Elena Popescu,elena.popescu@edu.in,9876543296,Female,2004-12-18,9.5,0,Deep Learning,Quantum Machine Learning,Completed,3rd
+2021AIML095,Florin Ionescu,florin.ionescu@edu.in,9876543297,Male,2003-01-05,6.7,2,Data Science,Data Engineering,Ongoing,3rd
+2021AIML096,Gabriela Munteanu,gabriela.munteanu@edu.in,9876543298,Female,2004-02-26,8.4,1,Computer Vision,Image Super-Resolution,Not Started,3rd
+2021AIML097,Horia Vasile,horia.vasile@edu.in,9876543299,Male,2003-03-13,9.1,0,Generative AI,Text-to-Speech,Completed,3rd
+2021AIML098,Irina Stoica,irina.stoica@edu.in,9876543300,Female,2004-04-24,8.6,0,NLP,Coreference Resolution,Ongoing,3rd
+2021AIML099,Mihai Radu,mihai.radu@edu.in,9876543301,Male,2003-05-18,7.2,1,Robotics,SLAM,Not Started,3rd
+2021AIML100,Nadia Dumitrescu,nadia.dumitrescu@edu.in,9876543302,Female,2004-06-09,9.3,0,Deep Learning,Autoencoders,Completed,3rd
+2021AIML101,Ovidiu Constantinescu,ovidiu.constantinescu@edu.in,9876543303,Male,2003-07-28,6.9,2,Data Science,Bayesian Inference,Ongoing,3rd
+2021AIML102,Raluca Stan,raluca.stan@edu.in,9876543304,Female,2004-08-20,8.1,0,Computer Vision,Stereo Vision,Not Started,3rd
+2021AIML103,Stefan Georgescu,stefan.georgescu@edu.in,9876543305,Male,2003-09-09,7.6,1,NLP,Machine Translation,Completed,3rd
+2021AIML104,Tatiana Popa,tatiana.popa@edu.in,9876543306,Female,2004-10-31,9.2,0,Generative AI,Image Inpainting,Ongoing,3rd
+2021AIML105,Vlad Petrescu,vlad.petrescu@edu.in,9876543307,Male,2003-11-14,8.9,0,Reinforcement Learning,Decision Making,Not Started,3rd
+2021AIML106,Yuki Tanaka,yuki.tanaka@edu.in,9876543308,Female,2004-12-23,9.7,0,Deep Learning,Attention Mechanisms,Completed,3rd
+2021AIML107,Hiroshi Yamamoto,hiroshi.yamamoto@edu.in,9876543309,Male,2003-01-12,7.0,1,Data Science,Statistical Modeling,Ongoing,3rd
+2021AIML108,Sakura Sato,sakura.sato@edu.in,9876543310,Female,2004-02-09,8.5,0,Computer Vision,Facial Expression Recognition,Not Started,3rd
+2021AIML109,Takeshi Nakamura,takeshi.nakamura@edu.in,9876543311,Male,2003-03-28,6.4,3,Robotics,Robot Perception,Completed,3rd
+2021AIML110,Aiko Suzuki,aiko.suzuki@edu.in,9876543312,Female,2004-04-18,9.0,0,NLP,Dialogue Generation,Ongoing,3rd
+2021AIML111,Kenji Watanabe,kenji.watanabe@edu.in,9876543313,Male,2003-05-25,7.8,1,Deep Learning,Memory Networks,Not Started,3rd
+2021AIML112,Mei Tanaka,mei.tanaka@edu.in,9876543314,Female,2004-06-12,9.4,0,Generative AI,Text Generation,Completed,3rd
+2021AIML113,Ryo Suzuki,ryo.suzuki@edu.in,9876543315,Male,2003-07-03,6.8,2,Data Science,Time Series Forecasting,Ongoing,3rd
+2021AIML114,Haruka Yamamoto,haruka.yamamoto@edu.in,9876543316,Female,2004-08-23,8.3,0,Computer Vision,Action Recognition,Not Started,3rd
+2021AIML115,Hiroki Tanaka,hiroki.tanaka@edu.in,9876543317,Male,2003-09-29,7.1,1,Reinforcement Learning,Continuous Control,Completed,3rd
+2021AIML116,Ai Watanabe,ai.watanabe@edu.in,9876543318,Female,2004-10-11,9.1,0,Deep Learning,Contrastive Learning,Ongoing,3rd
+2021AIML117,Soo-jin Park,soojin.park@edu.in,9876543319,Female,2003-11-16,8.7,0,NLP,Text Matching,Not Started,3rd
+2021AIML118,Min-jun Kim,minjun.kim@edu.in,9876543320,Male,2004-12-04,7.4,1,Data Science,Data Mining,Completed,3rd
+2021AIML119,Yun-hee Lee,yunhee.lee@edu.in,9876543321,Female,2003-01-20,9.3,0,Computer Vision,Instance Segmentation,Ongoing,3rd
+2021AIML120,Hyun-woo Choi,hyunwoo.choi@edu.in,9876543322,Male,2004-02-15,6.9,2,Robotics,Control Theory,Not Started,3rd
+2021AIML121,Eun-ji Kang,eunji.kang@edu.in,9876543323,Female,2003-03-25,8.2,1,Generative AI,StyleGAN,Completed,3rd
+2021AIML122,Seung-hyun Han,seunghyun.han@edu.in,9876543324,Male,2004-04-07,7.5,0,Deep Learning,Residual Networks,Ongoing,3rd
+2021AIML123,Ji-yoon Jung,jiyoon.jung@edu.in,9876543325,Female,2003-05-11,9.6,0,NLP,Sentence Similarity,Not Started,3rd
+2021AIML124,Dong-hyun Kim,donghyun.kim@edu.in,9876543326,Male,2004-06-27,6.6,3,General AIML,Full Stack Development,Completed,3rd
+2021AIML125,Bo-ram Park,boram.park@edu.in,9876543327,Female,2003-07-31,8.9,0,Data Science,Predictive Analytics,Ongoing,3rd
+2021AIML126,Lei Zhang,lei.zhang@edu.in,9876543328,Male,2004-08-13,7.2,1,Computer Vision,LiDAR Processing,Not Started,3rd
+2021AIML127,Wei Chen,wei.chen@edu.in,9876543329,Male,2003-09-15,8.4,0,Deep Learning,Knowledge Distillation,Completed,3rd
+2021AIML128,Mei Lin,mei.lin@edu.in,9876543330,Female,2004-10-26,9.2,0,NLP,Chinese Word Segmentation,Ongoing,3rd
+2021AIML129,Hao Li,hao.li@edu.in,9876543331,Male,2003-11-07,7.9,1,Reinforcement Learning,Inverse RL,Not Started,3rd
+2021AIML130,Wei Wang,wei.wang@edu.in,9876543332,Male,2004-12-14,6.3,2,Data Science,Data Warehousing,Completed,3rd
+2021AIML131,Jing Liu,jing.liu@edu.in,9876543333,Female,2003-01-29,8.8,0,Computer Vision,Event Detection,Ongoing,3rd
+2021AIML132,Ming Chen,ming.chen@edu.in,9876543334,Male,2004-02-22,9.1,0,Generative AI,Music Composition,Not Started,3rd
+2021AIML133,Yan Huang,yan.huang@edu.in,9876543335,Female,2003-03-06,7.6,1,Deep Learning,Stochastic Gradient Descent,Completed,3rd
+2021AIML134,Qiang Li,qiang.li@edu.in,9876543336,Male,2004-04-21,8.5,0,NLP,Multi-label Classification,Ongoing,3rd
+2021AIML135,Na Zhao,na.zhao@edu.in,9876543337,Female,2003-05-23,6.5,3,General AIML,Software Engineering,Not Started,3rd
+2021AIML136,Lin Wang,lin.wang@edu.in,9876543338,Male,2004-06-26,9.0,0,Robotics,Sensor Fusion,Completed,3rd
+2021AIML137,Ting Zhang,ting.zhang@edu.in,9876543339,Female,2003-07-17,8.1,1,Data Science,Recommendation Algorithms,Ongoing,3rd
+2021AIML138,Jun Li,jun.li@edu.in,9876543340,Male,2004-08-29,7.8,0,Computer Vision,Object Localization,Not Started,3rd
+2021AIML139,Shanaya Singh,shanaya.singh@edu.in,9876543341,Female,2003-09-02,9.3,0,Generative AI,Image Animation,Completed,3rd
+2021AIML140,Aditya Mishra,aditya.mishra@edu.in,9876543342,Male,2004-10-19,8.6,0,NLP,Tokenization,Ongoing,3rd
+2021AIML141,Dhruv Khanna,dhruv.khanna@edu.in,9876543343,Male,2003-11-29,7.3,1,Deep Learning,LR Schedulers,Not Started,3rd
+2021AIML142,Sana Sheikh,sana.sheikh@edu.in,9876543344,Female,2004-12-01,9.1,0,Data Science,Regression Analysis,Completed,3rd
+2021AIML143,Rohan Mehta,rohan.mehta@edu.in,9876543345,Male,2003-01-18,6.8,2,Robotics,Drone Navigation,Ongoing,3rd
+2021AIML144,Preeti Singh,preeti.singh@edu.in,9876543346,Female,2004-02-12,8.7,0,Computer Vision,Visual SLAM,Not Started,3rd
+2021AIML145,Siddharth Shah,siddharth.shah@edu.in,9876543347,Male,2003-03-30,7.9,1,NLP,NER Systems,Completed,3rd
+2021AIML146,Kritika Reddy,kritika.reddy@edu.in,9876543348,Female,2004-04-26,9.4,0,Generative AI,Story Generation,Ongoing,3rd
+2021AIML147,Madhavan Nair,madhavan.nair@edu.in,9876543349,Male,2003-05-19,7.0,0,Reinforcement Learning,Deep Q Networks,Not Started,3rd
+2021AIML148,Deepthi Rajan,deepthi.rajan@edu.in,9876543350,Female,2004-06-16,8.9,0,Deep Learning,Variational Autoencoders,Completed,3rd
+2021AIML149,Vikram Reddy,vikram.reddy@edu.in,9876543351,Male,2003-07-27,6.2,3,Data Science,Data Cleaning,Ongoing,3rd
+2021AIML150,Sai Krishna,sai.krishna@edu.in,9876543352,Male,2004-08-04,8.3,0,NLP,Language Detection,Not Started,3rd
+2021AIML151,Sandhya Rao,sandhya.rao@edu.in,9876543353,Female,2003-09-21,9.2,0,Computer Vision,Optical Flow,Completed,3rd
+2021AIML152,Naveen Singh,naveen.singh@edu.in,9876543354,Male,2004-10-09,7.5
