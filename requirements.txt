@@ -14,3 +14,4 @@ langgraph
 pypdf
 beautifulsoup4 # this is for web scraping, if you want to scrape data from websites you can use this
 wikipedia
+langchain-text-splitters
