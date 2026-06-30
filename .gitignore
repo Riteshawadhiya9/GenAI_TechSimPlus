@@ -57,3 +57,5 @@ Thumbs.db
 
 # SQLite database file
 /apps/my_database.db
+
+vector_db
